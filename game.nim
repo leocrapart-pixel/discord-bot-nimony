@@ -11,3 +11,10 @@ try:
   echo content
 except ErrorCode as e:
   echo "Une erreur est survenue: ", e
+
+# echo "wiooiiii"
+
+# proc name() =
+#   echo "leo"
+
+# name()
